@@ -1,3 +1,7 @@
+## Versión resuelta desplegada en github pages
+
+[Click aquí](https://eduardopalmalopez.github.io/Prueba-tecnica/).
+
 ## Reto - Tabla de Usuarios
 
 ![](https://cdn.dribbble.com/users/103762/screenshots/1440072/media/d5a10dab2ca0deeb12423777fe34544f.jpg)
