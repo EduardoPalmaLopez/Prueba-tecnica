@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prueba Técnica</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="background">
+      <div class="wrapper">
+        <div class="panel_container">
+          <div class="panel">
+            <input
+              type="text"
+              id="search"
+              placeholder="Buscar por nombre o apellido..."
+            />
+            <select id="country">
+              <option value="">Todos los países</option>
+            </select>
+          </div>
+          <div id="resultCount" class="hide">Resultados búsqueda: 0</div>
+        </div>
+        <div id="spinner" style="display: none">Cargando...</div>
+        <div id="users" class="users_container"></div>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
